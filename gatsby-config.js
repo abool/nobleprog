@@ -3,10 +3,7 @@ module.exports = {
     title: "andy",
   },
   plugins: [
-	`gatsby-plugin-material-ui`,
-    "gatsby-plugin-sass",
     "gatsby-plugin-image",
-    "gatsby-plugin-sitemap",
     "gatsby-plugin-sharp",
     "gatsby-transformer-sharp",
     {
